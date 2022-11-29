@@ -1,2 +1,2 @@
 # Fashion_minst_model
-Fashion minst trained model 
+Fashion minst Tensorflow model 
